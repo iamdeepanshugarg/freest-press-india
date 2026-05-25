@@ -13,6 +13,20 @@ A curated list of **free-to-read, independent, public-interest, investigative, r
 
 ---
 
+## Disclaimer
+
+This repo is a reading guide, not a final authority.
+
+Inclusion does not mean:
+- the outlet is always correct,
+- the outlet has no bias,
+- the outlet should be trusted blindly,
+- every article from the outlet is equally reliable.
+
+Good readers verify. Good journalism shows evidence.
+
+---
+
 ## Why this list exists
 
 India has hundreds of news sources, but finding reliable independent journalism is hard because:
@@ -116,3 +130,24 @@ Use this checklist while reading any news story:
 [ ] Is the article news, opinion, satire, or sponsored content?
 [ ] Does the story separate facts from allegations?
 [ ] Is the image/video verified or just embedded from social media?
+```
+
+----
+
+## Contribution Guide
+
+Want to add a source? Open a pull request using this format:
+
+| Name | Type | Best For | Languages | Free to Read | Independence Signal | Notes |
+|---|---|---|---|---|---|---|
+| Example News | Investigative | Courts, policy | English, Hindi | Yes | Reader-funded | Add why it deserves inclusion |
+Required proof
+
+Please include at least one of these:
+
+- official about page,
+- funding/ownership page,
+- corrections/editorial policy,
+- examples of original reporting,
+- public-interest investigations,
+- fact-checking methodology.
