@@ -1,0 +1,17 @@
+purpose: Evidence-first watchlist framework. Do not add names without links, dates, and review status.
+rules:
+- No personal attacks or unsourced claims.
+- 'Use neutral terms: documented concern, caveat, unresolved issue.'
+- Every entry must include at least two evidence links or one official/legal record.
+- Give the outlet a chance to be corrected through issues/PRs when possible.
+- Mark resolved or disputed issues clearly.
+issue_types:
+- unclear_ownership
+- no_correction_policy
+- paid_news_or_advertorial_disclosure_issue
+- repeated_misinformation_findings
+- state_or_party_linkage
+- corporate_conflict
+- ai_or_syndication_not_labelled
+- safety_or_harassment_concern
+entries: []

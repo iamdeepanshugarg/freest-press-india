@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Free Press India</title>
+  <style>
+    :root { color-scheme: light dark; --border:#d0d7de; --muted:#666; --bg:#fff; --card:#f6f8fa; --text:#111; }
+    @media (prefers-color-scheme: dark) { :root { --border:#30363d; --muted:#aaa; --bg:#0d1117; --card:#161b22; --text:#e6edf3; } }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--text); }
+    header { padding: 48px 24px 28px; max-width:1180px; margin:auto; }
+    h1 { font-size: clamp(2rem, 6vw, 4rem); margin:0; letter-spacing:-0.04em; }
+    p { line-height:1.6; }
+    main { max-width:1180px; margin:auto; padding:0 24px 60px; }
+    .controls { display:grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap:12px; position:sticky; top:0; background:var(--bg); padding:12px 0; z-index:2; }
+    input, select { padding:12px; border:1px solid var(--border); border-radius:12px; background:var(--card); color:var(--text); }
+    .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:16px; margin-top:16px; }
+    .card { border:1px solid var(--border); border-radius:18px; padding:16px; background:var(--card); }
+    .card h2 { font-size:1.1rem; margin:0 0 8px; }
+    .meta { color:var(--muted); font-size:.9rem; }
+    .tag { display:inline-block; border:1px solid var(--border); border-radius:999px; padding:3px 8px; font-size:.78rem; margin:3px 3px 0 0; }
+    .bar { display:grid; grid-template-columns: repeat(4,1fr); gap:8px; margin:20px 0; }
+    .stat { background:var(--card); border:1px solid var(--border); border-radius:16px; padding:14px; }
+    .stat b { font-size:1.6rem; display:block; }
+    a { color:inherit; }
+    .matrix { border:1px solid var(--border); border-radius:18px; padding:16px; margin:16px 0; background:var(--card); }
+    .matrix-grid { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    .quad { border:1px dashed var(--border); border-radius:12px; min-height:80px; padding:10px; }
+    @media (max-width: 800px) { .controls { grid-template-columns:1fr; position:static; } .bar { grid-template-columns:1fr 1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Free Press India 🇮🇳</h1>
+    <p>A searchable, data-backed directory of Indian public-interest, independent, regional, investigative, data, environmental, and fact-checking journalism sources. Inclusion is not endorsement.</p>
+  </header>
+  <main>
+    <div class="bar" id="stats"></div>
+    <section class="matrix">
+      <h2>Reliability vs independence guide</h2>
+      <p class="meta">This is a reading aid, not a political bias ranking. Use evidence and caveats before trusting any source.</p>
+      <div class="matrix-grid">
+        <div class="quad"><b>High transparency + strong independence</b><br><span class="meta">Prioritise, but still verify article-level claims.</span></div>
+        <div class="quad"><b>High transparency + corporate/legacy</b><br><span class="meta">Useful with ownership and paywall caveats.</span></div>
+        <div class="quad"><b>Low transparency + independent claim</b><br><span class="meta">Needs ownership/correction review.</span></div>
+        <div class="quad"><b>Government/platform tools</b><br><span class="meta">Useful for official or technical checks, not neutral truth by default.</span></div>
+      </div>
+    </section>
+    <div class="controls">
+      <input id="q" placeholder="Search name, focus, language, category…" />
+      <select id="category"><option value="">All categories</option></select>
+      <select id="language"><option value="">All languages</option></select>
+      <select id="free"><option value="">Any access</option><option>yes</option><option>mostly</option><option>partial</option><option>limited</option></select>
+    </div>
+    <div id="count" class="meta"></div>
+    <div class="grid" id="cards"></div>
+  </main>
+<script>
+let sources = [];
+const $ = id => document.getElementById(id);
+function unique(arr) { return [...new Set(arr)].sort(); }
+function renderOptions() {
+  const cats = unique(sources.flatMap(s => s.categories));
+  const langs = unique(sources.flatMap(s => s.languages));
+  $('category').innerHTML += cats.map(c => `<option>${c}</option>`).join('');
+  $('language').innerHTML += langs.map(l => `<option>${l}</option>`).join('');
+}
+function renderStats() {
+  const fact = sources.filter(s => s.categories.includes('fact-checking')).length;
+  const regional = sources.filter(s => s.categories.includes('regional') || s.categories.includes('northeast') || s.categories.includes('kashmir')).length;
+  const tools = sources.filter(s => ['tool','resource'].includes(s.kind)).length;
+  $('stats').innerHTML = [
+    ['Entries', sources.length], ['Fact-checking', fact], ['Regional', regional], ['Tools/resources', tools]
+  ].map(([k,v]) => `<div class="stat"><b>${v}</b>${k}</div>`).join('');
+}
+function card(s) {
+  return `<article class="card">
+    <h2><a href="${s.url}" target="_blank" rel="noopener">${s.name}</a></h2>
+    <div class="meta">${s.kind} · ${s.region} · ${s.free_to_read}/${s.paywall}</div>
+    <p>${s.focus.slice(0,4).join(', ')}</p>
+    <p>${s.categories.map(c => `<span class="tag">${c}</span>`).join('')}</p>
+    <p class="meta"><b>Ownership:</b> ${s.ownership_funding}</p>
+    <p class="meta"><b>Transparency:</b> ${s.transparency_rating} · <b>IFCN:</b> ${s.ifcn_verified}</p>
+    <p class="meta"><b>Reviewed:</b> ${s.last_reviewed} · ${s.verification_status}</p>
+  </article>`;
+}
+function render() {
+  const query = $('q').value.toLowerCase();
+  const cat = $('category').value;
+  const lang = $('language').value;
+  const free = $('free').value;
+  const filtered = sources.filter(s => {
+    const hay = JSON.stringify(s).toLowerCase();
+    return (!query || hay.includes(query)) && (!cat || s.categories.includes(cat)) && (!lang || s.languages.includes(lang)) && (!free || s.free_to_read === free);
+  });
+  $('count').textContent = `${filtered.length} result(s)`;
+  $('cards').innerHTML = filtered.map(card).join('');
+}
+fetch('sources.json').then(r => r.json()).then(data => {
+  sources = data;
+  renderOptions(); renderStats(); render();
+  ['q','category','language','free'].forEach(id => $(id).addEventListener('input', render));
+});
+</script>
+</body>
+</html>

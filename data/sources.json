@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "reporters-collective",
+    "name": "The Reporters' Collective",
+    "url": "https://www.reporters-collective.in/",
+    "kind": "outlet",
+    "categories": [
+      "investigative",
+      "accountability"
+    ],
+    "focus": [
+      "public policy",
+      "governance",
+      "political economy",
+      "documents-based investigations"
+    ],
+    "languages": [
+      "English",
+      "collaborations"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "IPSMF grant support disclosed; reader donations encouraged",
+    "independence_signal": "foundation-supported + reader-supported",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "About page discloses IPSMF support and public-interest collaborative model.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.reporters-collective.in/about"
+    ]
+  },
+  {
+    "id": "article-14",
+    "name": "Article 14",
+    "url": "https://article-14.com/",
+    "kind": "outlet",
+    "categories": [
+      "legal",
+      "constitutional",
+      "rights"
+    ],
+    "focus": [
+      "courts",
+      "civil liberties",
+      "law",
+      "governance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "public-interest legal journalism",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://article-14.com/"
+    ]
+  },
+  {
+    "id": "scroll",
+    "name": "Scroll.in",
+    "url": "https://scroll.in/",
+    "kind": "outlet",
+    "categories": [
+      "digital-news",
+      "analysis",
+      "culture"
+    ],
+    "focus": [
+      "politics",
+      "society",
+      "culture",
+      "ground reports"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "SCSN Pvt Ltd / Scroll Media; details need current review",
+    "independence_signal": "independent digital newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "yes",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_ownership_refresh",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://scroll.in/",
+      "https://en.wikipedia.org/wiki/Scroll.in"
+    ]
+  },
+  {
+    "id": "the-wire",
+    "name": "The Wire",
+    "url": "https://thewire.in/",
+    "kind": "outlet",
+    "categories": [
+      "digital-news",
+      "investigative",
+      "opinion"
+    ],
+    "focus": [
+      "politics",
+      "policy",
+      "rights",
+      "media",
+      "science"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Urdu"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Foundation / reader-supported model; refresh required",
+    "independence_signal": "reader-supported public-interest outlet",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Strong opinion section; readers should separate reportage, analysis, and opinion."
+    ],
+    "verification_status": "needs_ownership_refresh",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://thewire.in/about-us"
+    ]
+  },
+  {
+    "id": "newslaundry",
+    "name": "Newslaundry",
+    "url": "https://www.newslaundry.com/",
+    "kind": "outlet",
+    "categories": [
+      "media-criticism",
+      "digital-news",
+      "podcast"
+    ],
+    "focus": [
+      "media accountability",
+      "politics",
+      "TV coverage",
+      "media business"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "subscription-driven; current ownership refresh required",
+    "independence_signal": "subscriber-supported",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Many investigations and shows are paywalled."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.newslaundry.com/"
+    ]
+  },
+  {
+    "id": "the-news-minute",
+    "name": "The News Minute",
+    "url": "https://www.thenewsminute.com/",
+    "kind": "outlet",
+    "categories": [
+      "regional",
+      "digital-news"
+    ],
+    "focus": [
+      "South India",
+      "gender",
+      "politics",
+      "society"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "digital media company; current ownership refresh required",
+    "independence_signal": "regional digital newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.thenewsminute.com/",
+      "https://en.wikipedia.org/wiki/The_News_Minute"
+    ]
+  },
+  {
+    "id": "the-quint",
+    "name": "The Quint",
+    "url": "https://www.thequint.com/",
+    "kind": "outlet",
+    "categories": [
+      "digital-news",
+      "fact-checking",
+      "explainers"
+    ],
+    "focus": [
+      "explainers",
+      "politics",
+      "gender",
+      "youth issues",
+      "viral claims"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "Quint Digital Ltd / corporate; current refresh required",
+    "independence_signal": "digital-first newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "yes_for_fact_check_unit_needs_refresh",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Verify breaking-news claims with additional sources."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.thequint.com/"
+    ]
+  },
+  {
+    "id": "alt-news",
+    "name": "Alt News",
+    "url": "https://www.altnews.in/",
+    "kind": "outlet",
+    "categories": [
+      "fact-checking",
+      "misinformation"
+    ],
+    "focus": [
+      "political misinformation",
+      "communal claims",
+      "viral images",
+      "social media claims"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Pravda Media Foundation; non-profit model",
+    "independence_signal": "non-profit fact-checking",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_currently_verified_based_on_available_public_summary",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "yes",
+    "methodology_page": "yes",
+    "notable_review_note": "Public summaries state Alt News was an IFCN signatory until April 2020; current IFCN status should be rechecked before marking yes.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.altnews.in/about/",
+      "https://en.wikipedia.org/wiki/Alt_News"
+    ]
+  },
+  {
+    "id": "boom-live",
+    "name": "BOOM Live",
+    "url": "https://www.boomlive.in/",
+    "kind": "outlet",
+    "categories": [
+      "fact-checking",
+      "misinformation",
+      "deepfakes"
+    ],
+    "focus": [
+      "viral claims",
+      "scams",
+      "AI/deepfakes",
+      "social media misinformation"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Outcue Media Pvt Ltd; revenue sources and major contributors disclosed",
+    "independence_signal": "for-profit fact-checking newsroom with disclosed platform revenues",
+    "transparency_rating": "high",
+    "ifcn_verified": "yes",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "yes",
+    "methodology_page": "yes",
+    "notable_review_note": "About page states IFCN certification, languages, methodology, correction policy, ownership and FY2025-26 major revenue contributors.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.boomlive.in/about-us"
+    ]
+  },
+  {
+    "id": "factly",
+    "name": "Factly",
+    "url": "https://factly.in/",
+    "kind": "outlet",
+    "categories": [
+      "data-journalism",
+      "fact-checking",
+      "public-data"
+    ],
+    "focus": [
+      "government data",
+      "policy claims",
+      "RTI",
+      "schemes",
+      "statistics"
+    ],
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Factly Media & Research; for-profit partnership; revenue sources disclosed",
+    "independence_signal": "data-first fact-checking/public information",
+    "transparency_rating": "high",
+    "ifcn_verified": "yes",
+    "rss": "yes",
+    "newsletter": "yes",
+    "correction_policy": "yes",
+    "methodology_page": "yes",
+    "notable_review_note": "About page discloses mission, products, legal entity, revenues, partners, corrections, methodology and IFCN status.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://factly.in/about/"
+    ]
+  },
+  {
+    "id": "digiteye",
+    "name": "Digiteye India",
+    "url": "https://digiteye.in/",
+    "kind": "outlet",
+    "categories": [
+      "fact-checking",
+      "misinformation"
+    ],
+    "focus": [
+      "social media claims",
+      "images",
+      "rumours",
+      "health",
+      "politics"
+    ],
+    "languages": [
+      "English",
+      "Telugu",
+      "Kannada"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "SoftmediaHub LLP",
+    "independence_signal": "small independent fact-checking venture",
+    "transparency_rating": "high",
+    "ifcn_verified": "yes",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "yes",
+    "methodology_page": "yes",
+    "notable_review_note": "About page states SoftmediaHub LLP structure, IFCN signatory status, methodology, and corrections page.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://digiteye.in/about-us/"
+    ]
+  },
+  {
+    "id": "factchecker-in",
+    "name": "FactChecker.in",
+    "url": "https://www.factchecker.in/",
+    "kind": "outlet",
+    "categories": [
+      "fact-checking",
+      "data-journalism"
+    ],
+    "focus": [
+      "public claims",
+      "public data",
+      "policy context"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "The Spending & Policy Research Foundation / IndiaSpend ecosystem",
+    "independence_signal": "non-profit public-data initiative",
+    "transparency_rating": "high",
+    "ifcn_verified": "needs_review",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "unknown",
+    "notable_review_note": "IndiaSpend says FactChecker.in launched in March 2014 as a dedicated fact-checking initiative.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.indiaspend.com/about-us/",
+      "https://www.factchecker.in/about-us"
+    ]
+  },
+  {
+    "id": "newschecker",
+    "name": "Newschecker",
+    "url": "https://newschecker.in/",
+    "kind": "outlet",
+    "categories": [
+      "fact-checking",
+      "misinformation"
+    ],
+    "focus": [
+      "viral claims",
+      "political claims",
+      "social media posts",
+      "regional misinformation"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "regional languages"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "NC Media Networks Pvt Ltd; current details require review",
+    "independence_signal": "independent fact-checking initiative",
+    "transparency_rating": "medium",
+    "ifcn_verified": "needs_current_check",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "unknown",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://newschecker.in/about-us/"
+    ]
+  },
+  {
+    "id": "vishvas-news",
+    "name": "Vishvas News",
+    "url": "https://www.vishvasnews.com/",
+    "kind": "outlet",
+    "categories": [
+      "fact-checking",
+      "misinformation"
+    ],
+    "focus": [
+      "viral claims",
+      "regional-language misinformation"
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "regional languages"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "MMI Online / Jagran Prakashan group",
+    "independence_signal": "corporate-linked fact-checking initiative",
+    "transparency_rating": "medium",
+    "ifcn_verified": "needs_current_check",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "unknown",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Corporate-linked; do not label as independent without qualification."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.vishvasnews.com/about-us/"
+    ]
+  },
+  {
+    "id": "pib-fact-check",
+    "name": "PIB Fact Check",
+    "url": "https://factcheck.pib.gov.in/",
+    "kind": "resource",
+    "categories": [
+      "official-clarification",
+      "fact-checking"
+    ],
+    "focus": [
+      "government claims",
+      "official clarifications",
+      "scheme-related rumours"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Government of India / Press Information Bureau",
+    "independence_signal": "government-linked official source",
+    "transparency_rating": "medium",
+    "ifcn_verified": "no",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "unknown",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Useful for official government position, not a replacement for independent fact-checking."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://factcheck.pib.gov.in/"
+    ]
+  },
+  {
+    "id": "india-spend",
+    "name": "IndiaSpend",
+    "url": "https://www.indiaspend.com/",
+    "kind": "outlet",
+    "categories": [
+      "data-journalism",
+      "policy",
+      "public-data"
+    ],
+    "focus": [
+      "governance",
+      "health",
+      "education",
+      "gender",
+      "environment",
+      "economy"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Non-profit project of The Spending & Policy Research Foundation",
+    "independence_signal": "non-profit public-data newsroom",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "About page states open-data mission and non-profit structure.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.indiaspend.com/about-us/"
+    ]
+  },
+  {
+    "id": "pari",
+    "name": "People's Archive of Rural India",
+    "url": "https://ruralindiaonline.org/",
+    "kind": "outlet",
+    "categories": [
+      "rural",
+      "archive",
+      "multilingual"
+    ],
+    "focus": [
+      "rural lives",
+      "livelihoods",
+      "labour",
+      "culture",
+      "oral histories"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Assamese",
+      "Bengali",
+      "Gujarati",
+      "Kannada",
+      "Malayalam",
+      "Marathi",
+      "Odia",
+      "Punjabi",
+      "Tamil",
+      "Telugu",
+      "Urdu"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "CounterMedia Trust / public archive model; current funding refresh required",
+    "independence_signal": "non-profit rural journalism archive",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "yes",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://ruralindiaonline.org/en/pages/about/"
+    ]
+  },
+  {
+    "id": "down-to-earth",
+    "name": "Down To Earth",
+    "url": "https://www.downtoearth.org.in/",
+    "kind": "outlet",
+    "categories": [
+      "environment",
+      "climate",
+      "development",
+      "health"
+    ],
+    "focus": [
+      "climate",
+      "agriculture",
+      "water",
+      "air",
+      "waste",
+      "public health",
+      "livelihoods"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Malayalam"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "Centre for Science and Environment / Society for Environmental Communications context; subscriptions/support requested",
+    "independence_signal": "specialist environment publication",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "About page states environment/health/livelihood mission, 1992 origin, and subscription-support model.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.downtoearth.org.in/about-us"
+    ]
+  },
+  {
+    "id": "mongabay-india",
+    "name": "Mongabay India",
+    "url": "https://india.mongabay.com/",
+    "kind": "outlet",
+    "categories": [
+      "environment",
+      "science",
+      "climate"
+    ],
+    "focus": [
+      "forests",
+      "wildlife",
+      "conservation",
+      "climate",
+      "communities"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Mongabay global non-profit network; India details need refresh",
+    "independence_signal": "specialist environmental journalism",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "yes",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://india.mongabay.com/"
+    ]
+  },
+  {
+    "id": "citizen-matters",
+    "name": "Citizen Matters",
+    "url": "https://citizenmatters.in/",
+    "kind": "outlet",
+    "categories": [
+      "civic",
+      "urban-governance",
+      "local"
+    ],
+    "focus": [
+      "cities",
+      "local governance",
+      "urban planning",
+      "civic services"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Oorvani Foundation / civic media; refresh required",
+    "independence_signal": "civic-public interest model",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://citizenmatters.in/about/"
+    ]
+  },
+  {
+    "id": "behanbox",
+    "name": "BehanBox",
+    "url": "https://behanbox.com/",
+    "kind": "outlet",
+    "categories": [
+      "gender",
+      "policy",
+      "data",
+      "investigative"
+    ],
+    "focus": [
+      "gender",
+      "law",
+      "policy",
+      "caste",
+      "health",
+      "LGBTQIA+",
+      "women and work"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "women-led organisation; funding details need refresh",
+    "independence_signal": "gender-focused public-interest journalism",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "About page states mission to center women and gender diverse persons through evidence-based reportage.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://behanbox.com/about-us/"
+    ]
+  },
+  {
+    "id": "khabar-lahariya",
+    "name": "Khabar Lahariya",
+    "url": "https://khabarlahariya.org/",
+    "kind": "outlet",
+    "categories": [
+      "rural",
+      "regional",
+      "gender"
+    ],
+    "focus": [
+      "Bundelkhand",
+      "rural politics",
+      "local governance",
+      "gender",
+      "Dalit women-led reporting"
+    ],
+    "languages": [
+      "Hindi",
+      "Bundeli",
+      "Bhojpuri",
+      "Awadhi",
+      "Bajjika",
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "women-led rural newsroom; current entity/funding refresh required",
+    "independence_signal": "women-led rural newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://khabarlahariya.org/",
+      "https://en.wikipedia.org/wiki/Khabar_Lahariya"
+    ]
+  },
+  {
+    "id": "eastmojo",
+    "name": "EastMojo",
+    "url": "https://www.eastmojo.com/",
+    "kind": "outlet",
+    "categories": [
+      "regional",
+      "northeast"
+    ],
+    "focus": [
+      "Assam",
+      "Arunachal Pradesh",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "IPSMF support disclosed",
+    "independence_signal": "regional digital newsroom with foundation support",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "About page states Northeast focus, 8-state coverage and IPSMF support.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://eastmojo.com/about-us/"
+    ]
+  },
+  {
+    "id": "maktoob-media",
+    "name": "Maktoob Media",
+    "url": "https://maktoobmedia.com/",
+    "kind": "outlet",
+    "categories": [
+      "minority-rights",
+      "regional",
+      "rights"
+    ],
+    "focus": [
+      "minority issues",
+      "rights",
+      "politics",
+      "Dalits",
+      "Adivasis",
+      "women",
+      "undercovered communities"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "independent rights-focused media",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://maktoobmedia.com/about-us/"
+    ]
+  },
+  {
+    "id": "gaon-connection",
+    "name": "Gaon Connection",
+    "url": "https://www.gaonconnection.com/",
+    "kind": "outlet",
+    "categories": [
+      "rural",
+      "agriculture",
+      "regional"
+    ],
+    "focus": [
+      "rural India",
+      "agriculture",
+      "farmers",
+      "livelihoods",
+      "district reporting"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Slow Movement / Gaon Connection; current corporate/funding refresh required",
+    "independence_signal": "rural media platform",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "About page describes rural media platform with text, audio, video, print, surveys and community journalists.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.gaonconnection.com/about-us"
+    ]
+  },
+  {
+    "id": "the-kashmiriyat",
+    "name": "The Kashmiriyat",
+    "url": "https://thekashmiriyat.co.uk/",
+    "kind": "outlet",
+    "categories": [
+      "regional",
+      "kashmir",
+      "conflict-sensitive"
+    ],
+    "focus": [
+      "Kashmir",
+      "human rights",
+      "regional politics",
+      "local reports"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "regional Kashmir-focused newsroom",
+    "transparency_rating": "low",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Conflict-region reporting requires extra care, source triangulation, and safety context."
+    ],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://thekashmiriyat.co.uk/"
+    ]
+  },
+  {
+    "id": "groundxero",
+    "name": "GroundXero",
+    "url": "https://www.groundxero.in/",
+    "kind": "outlet",
+    "categories": [
+      "labour",
+      "rights",
+      "ground-reporting"
+    ],
+    "focus": [
+      "labour",
+      "social movements",
+      "civil liberties",
+      "public-interest reporting"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "independent/public-interest",
+    "transparency_rating": "low",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.groundxero.in/"
+    ]
+  },
+  {
+    "id": "himal-southasian",
+    "name": "Himal Southasian",
+    "url": "https://www.himalmag.com/",
+    "kind": "outlet",
+    "categories": [
+      "south-asia",
+      "longform",
+      "regional"
+    ],
+    "focus": [
+      "South Asia",
+      "long-form",
+      "regional context",
+      "culture",
+      "politics"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "South Asian long-form publication",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Not India-only; include for regional South Asia context."
+    ],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.himalmag.com/"
+    ]
+  },
+  {
+    "id": "the-hindu",
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/",
+    "kind": "outlet",
+    "categories": [
+      "legacy",
+      "newspaper"
+    ],
+    "focus": [
+      "national news",
+      "editorials",
+      "policy",
+      "international affairs"
+    ],
+    "languages": [
+      "English",
+      "Tamil",
+      "regional editions"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "limited_free",
+    "ownership_funding": "Kasturi & Sons / legacy family-owned media; refresh required",
+    "independence_signal": "legacy editorial institution",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "yes",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Legacy/corporate family-owned; some paywall."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.thehindu.com/"
+    ]
+  },
+  {
+    "id": "frontline",
+    "name": "Frontline",
+    "url": "https://frontline.thehindu.com/",
+    "kind": "outlet",
+    "categories": [
+      "legacy",
+      "magazine",
+      "longform"
+    ],
+    "focus": [
+      "long-form politics",
+      "history",
+      "society",
+      "books",
+      "culture"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "The Hindu Group / Kasturi & Sons",
+    "independence_signal": "legacy magazine",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Often paywalled; classify as legacy with caveats, not independent-first."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://frontline.thehindu.com/"
+    ]
+  },
+  {
+    "id": "indian-express",
+    "name": "The Indian Express",
+    "url": "https://indianexpress.com/",
+    "kind": "outlet",
+    "categories": [
+      "legacy",
+      "investigative",
+      "explainers"
+    ],
+    "focus": [
+      "investigations",
+      "explained journalism",
+      "governance",
+      "courts",
+      "policy"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "regional brands"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "Indian Express Group / corporate legacy",
+    "independence_signal": "legacy corporate newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "yes",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Corporate legacy outlet; include with ownership/paywall caveats."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://indianexpress.com/about/"
+    ]
+  },
+  {
+    "id": "deccan-herald",
+    "name": "Deccan Herald",
+    "url": "https://www.deccanherald.com/",
+    "kind": "outlet",
+    "categories": [
+      "legacy",
+      "regional",
+      "newspaper"
+    ],
+    "focus": [
+      "Karnataka",
+      "national news",
+      "opinion",
+      "policy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "The Printers Mysore / legacy media",
+    "independence_signal": "legacy regional newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.deccanherald.com/"
+    ]
+  },
+  {
+    "id": "the-caravan",
+    "name": "The Caravan",
+    "url": "https://caravanmagazine.in/",
+    "kind": "outlet",
+    "categories": [
+      "magazine",
+      "longform",
+      "investigative"
+    ],
+    "focus": [
+      "long-form investigations",
+      "politics",
+      "culture",
+      "media"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "often",
+    "ownership_funding": "Delhi Press / current structure refresh required",
+    "independence_signal": "long-form magazine",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Many strong stories are paywalled; classify as long-form with caveats."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://caravanmagazine.in/"
+    ]
+  },
+  {
+    "id": "epw",
+    "name": "Economic and Political Weekly",
+    "url": "https://www.epw.in/",
+    "kind": "outlet",
+    "categories": [
+      "policy",
+      "research",
+      "magazine"
+    ],
+    "focus": [
+      "economy",
+      "politics",
+      "social science",
+      "policy research"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "Sameeksha Trust",
+    "independence_signal": "academic/public-policy weekly",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Scholarly/policy publication; not daily news."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.epw.in/about-us.html"
+    ]
+  },
+  {
+    "id": "the-ken",
+    "name": "The Ken",
+    "url": "https://the-ken.com/",
+    "kind": "outlet",
+    "categories": [
+      "business",
+      "longform"
+    ],
+    "focus": [
+      "technology",
+      "startups",
+      "business",
+      "economy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "limited",
+    "paywall": "strong",
+    "ownership_funding": "subscription business publication; investors/funding need current refresh",
+    "independence_signal": "subscription-led business journalism",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Primarily paid; business/startup focus, not general public-interest news."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://the-ken.com/",
+      "https://en.wikipedia.org/wiki/The_Ken"
+    ]
+  },
+  {
+    "id": "morning-context",
+    "name": "The Morning Context",
+    "url": "https://themorningcontext.com/",
+    "kind": "outlet",
+    "categories": [
+      "business",
+      "longform"
+    ],
+    "focus": [
+      "business",
+      "technology",
+      "internet economy",
+      "markets"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "limited",
+    "paywall": "strong",
+    "ownership_funding": "subscription-led; current ownership refresh required",
+    "independence_signal": "subscription-led business journalism",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Primarily paid."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://themorningcontext.com/"
+    ]
+  },
+  {
+    "id": "fifty-two",
+    "name": "FiftyTwo",
+    "url": "https://fiftytwo.in/",
+    "kind": "outlet",
+    "categories": [
+      "longform",
+      "magazine"
+    ],
+    "focus": [
+      "narrative journalism",
+      "culture",
+      "business",
+      "society"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "needs_review",
+    "independence_signal": "long-form digital magazine",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://fiftytwo.in/"
+    ]
+  },
+  {
+    "id": "carboncopy",
+    "name": "CarbonCopy",
+    "url": "https://carboncopy.info/",
+    "kind": "outlet",
+    "categories": [
+      "climate",
+      "environment",
+      "energy"
+    ],
+    "focus": [
+      "climate change",
+      "energy transition",
+      "air pollution",
+      "policy"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "specialist climate publication",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://carboncopy.info/"
+    ]
+  },
+  {
+    "id": "the-probe",
+    "name": "The Probe",
+    "url": "https://theprobe.in/",
+    "kind": "outlet",
+    "categories": [
+      "investigative",
+      "public-interest"
+    ],
+    "focus": [
+      "investigations",
+      "governance",
+      "public accountability"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "investigative digital outlet",
+    "transparency_rating": "low",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://theprobe.in/"
+    ]
+  },
+  {
+    "id": "cgnet-swara",
+    "name": "CGNet Swara",
+    "url": "https://cgnetswara.org/",
+    "kind": "resource",
+    "categories": [
+      "community-media",
+      "tribal",
+      "rural"
+    ],
+    "focus": [
+      "Central India",
+      "Adivasi communities",
+      "voice reports",
+      "local grievances"
+    ],
+    "languages": [
+      "Hindi",
+      "Gondi",
+      "regional languages"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "community-media platform",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://cgnetswara.org/"
+    ]
+  },
+  {
+    "id": "video-volunteers",
+    "name": "Video Volunteers",
+    "url": "https://www.videovolunteers.org/",
+    "kind": "resource",
+    "categories": [
+      "community-media",
+      "video",
+      "rights"
+    ],
+    "focus": [
+      "community correspondents",
+      "local governance",
+      "rights",
+      "video reports"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "regional languages"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "non-profit / community media; refresh required",
+    "independence_signal": "community-video public-interest model",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.videovolunteers.org/"
+    ]
+  },
+  {
+    "id": "the-print",
+    "name": "ThePrint",
+    "url": "https://theprint.in/",
+    "kind": "outlet",
+    "categories": [
+      "digital-news",
+      "explainers",
+      "youtube"
+    ],
+    "focus": [
+      "politics",
+      "policy",
+      "security",
+      "explainers",
+      "opinion"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "Printline Media Pvt Ltd; current ownership refresh required",
+    "independence_signal": "digital corporate newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "yes",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Strong opinion/video presence; separate reporting from commentary."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://theprint.in/"
+    ]
+  },
+  {
+    "id": "ndtv",
+    "name": "NDTV",
+    "url": "https://www.ndtv.com/",
+    "kind": "outlet",
+    "categories": [
+      "legacy",
+      "tv",
+      "digital"
+    ],
+    "focus": [
+      "national news",
+      "live updates",
+      "video",
+      "business",
+      "cities"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "Adani Group control after 2022 takeover",
+    "independence_signal": "corporate conglomerate-owned legacy media",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Not independent-first; include only under legacy/corporate caveats."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.ndtv.com/",
+      "https://en.wikipedia.org/wiki/NDTV"
+    ]
+  },
+  {
+    "id": "bbc-india",
+    "name": "BBC News India / Collective Newsroom context",
+    "url": "https://www.bbc.com/news/world/asia/india",
+    "kind": "outlet",
+    "categories": [
+      "international",
+      "regional-languages",
+      "legacy"
+    ],
+    "focus": [
+      "India coverage",
+      "international context",
+      "regional-language services"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Punjabi",
+      "Tamil",
+      "Telugu",
+      "Marathi",
+      "Gujarati"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "BBC / Collective Newsroom restructuring context; verify current operations",
+    "independence_signal": "international public-service media with India legal/ownership constraints",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "India operations changed after 2024 restructuring; verify by service/language."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.bbc.com/news/world/asia/india"
+    ]
+  },
+  {
+    "id": "the-federal",
+    "name": "The Federal",
+    "url": "https://thefederal.com/",
+    "kind": "outlet",
+    "categories": [
+      "digital-news",
+      "regional"
+    ],
+    "focus": [
+      "federal politics",
+      "states",
+      "South India",
+      "analysis"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "needs_review",
+    "independence_signal": "digital newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://thefederal.com/"
+    ]
+  },
+  {
+    "id": "mojo-story",
+    "name": "Mojo Story",
+    "url": "https://www.mojostory.com/",
+    "kind": "outlet",
+    "categories": [
+      "video",
+      "youtube",
+      "interviews"
+    ],
+    "focus": [
+      "ground reports",
+      "interviews",
+      "politics",
+      "social issues"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "none",
+    "ownership_funding": "needs_review",
+    "independence_signal": "video-first journalism platform",
+    "transparency_rating": "low",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Video-first; verify claims using article/source links when available."
+    ],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.mojostory.com/"
+    ]
+  },
+  {
+    "id": "the-seen-and-the-unseen",
+    "name": "The Seen and the Unseen",
+    "url": "https://seenunseen.in/",
+    "kind": "podcast",
+    "categories": [
+      "podcast",
+      "public-policy"
+    ],
+    "focus": [
+      "economics",
+      "politics",
+      "history",
+      "public policy",
+      "long conversations"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "independent podcast; refresh required",
+    "independence_signal": "creator-led podcast",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Long-form interview podcast; not a newsroom."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://seenunseen.in/"
+    ]
+  },
+  {
+    "id": "puliyabaazi",
+    "name": "Puliyabaazi",
+    "url": "https://puliyabaazi.in/",
+    "kind": "podcast",
+    "categories": [
+      "podcast",
+      "public-policy",
+      "hindi"
+    ],
+    "focus": [
+      "public policy",
+      "society",
+      "economics",
+      "science",
+      "technology"
+    ],
+    "languages": [
+      "Hindi",
+      "Hinglish"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "independent podcast; refresh required",
+    "independence_signal": "creator-led podcast",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Podcast/explainer resource, not a newsroom."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://puliyabaazi.in/"
+    ]
+  },
+  {
+    "id": "nl-hafta",
+    "name": "NL Hafta",
+    "url": "https://www.newslaundry.com/podcast/hafta",
+    "kind": "podcast",
+    "categories": [
+      "podcast",
+      "media-criticism"
+    ],
+    "focus": [
+      "media criticism",
+      "politics",
+      "weekly news discussion"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "mixed",
+    "ownership_funding": "Newslaundry subscription ecosystem",
+    "independence_signal": "subscriber-supported",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.newslaundry.com/podcast/hafta"
+    ]
+  },
+  {
+    "id": "cut-the-clutter",
+    "name": "Cut The Clutter",
+    "url": "https://www.youtube.com/@ThePrintIndia",
+    "kind": "youtube",
+    "categories": [
+      "youtube",
+      "explainer"
+    ],
+    "focus": [
+      "politics",
+      "policy",
+      "geopolitics",
+      "current affairs"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "ThePrint / Printline Media Pvt Ltd",
+    "independence_signal": "digital corporate newsroom",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Host-led explainer/commentary; distinguish from reported articles."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.youtube.com/@ThePrintIndia"
+    ]
+  },
+  {
+    "id": "newslaundry-youtube",
+    "name": "Newslaundry YouTube",
+    "url": "https://www.youtube.com/@newslaundry",
+    "kind": "youtube",
+    "categories": [
+      "youtube",
+      "media-criticism"
+    ],
+    "focus": [
+      "media criticism",
+      "politics",
+      "explainers",
+      "interviews"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "Newslaundry subscription ecosystem",
+    "independence_signal": "subscriber-supported",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.youtube.com/@newslaundry"
+    ]
+  },
+  {
+    "id": "the-hindu-science",
+    "name": "The Hindu Science",
+    "url": "https://www.thehindu.com/sci-tech/science/",
+    "kind": "outlet",
+    "categories": [
+      "science",
+      "legacy"
+    ],
+    "focus": [
+      "science news",
+      "research",
+      "health",
+      "space"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "partial",
+    "paywall": "limited_free",
+    "ownership_funding": "The Hindu Group",
+    "independence_signal": "legacy science desk",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Legacy source; cross-check health advice with medical authorities."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.thehindu.com/sci-tech/science/"
+    ]
+  },
+  {
+    "id": "health-check",
+    "name": "Health Check / IndiaSpend",
+    "url": "https://www.health-check.in/",
+    "kind": "outlet",
+    "categories": [
+      "health",
+      "data-journalism"
+    ],
+    "focus": [
+      "public health",
+      "health policy",
+      "data-led reporting"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "IndiaSpend / Spending & Policy Research Foundation ecosystem",
+    "independence_signal": "non-profit health/data reporting",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "needs_community_review",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.health-check.in/",
+      "https://www.indiaspend.com/about-us/"
+    ]
+  },
+  {
+    "id": "thip-media",
+    "name": "THIP Media",
+    "url": "https://www.thip.media/",
+    "kind": "resource",
+    "categories": [
+      "health",
+      "fact-checking"
+    ],
+    "focus": [
+      "health misinformation",
+      "medical claims",
+      "wellness claims"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "The Healthy Indian Project; current legal/funding refresh required",
+    "independence_signal": "health fact-checking resource",
+    "transparency_rating": "medium",
+    "ifcn_verified": "yes_needs_current_check",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "yes",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.thip.media/"
+    ]
+  },
+  {
+    "id": "medical-dialogues",
+    "name": "Medical Dialogues",
+    "url": "https://medicaldialogues.in/",
+    "kind": "outlet",
+    "categories": [
+      "health",
+      "medical-news",
+      "fact-checking"
+    ],
+    "focus": [
+      "medical news",
+      "health policy",
+      "medical education",
+      "health fact-checks"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "mostly",
+    "paywall": "mixed",
+    "ownership_funding": "corporate/medical media; current refresh required",
+    "independence_signal": "specialist health media with corporate caveat",
+    "transparency_rating": "medium",
+    "ifcn_verified": "yes_needs_current_check",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Specialist medical media; health decisions require qualified professionals."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://medicaldialogues.in/"
+    ]
+  },
+  {
+    "id": "prs-legislative",
+    "name": "PRS Legislative Research",
+    "url": "https://prsindia.org/",
+    "kind": "resource",
+    "categories": [
+      "law",
+      "policy",
+      "data-resource"
+    ],
+    "focus": [
+      "bills",
+      "parliament",
+      "state assemblies",
+      "policy briefs",
+      "legislative tracking"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "non-profit policy research; not a newsroom",
+    "independence_signal": "public policy research resource",
+    "transparency_rating": "high",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Research/resource, not news outlet."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://prsindia.org/"
+    ]
+  },
+  {
+    "id": "accountability-initiative",
+    "name": "Accountability Initiative",
+    "url": "https://accountabilityindia.in/",
+    "kind": "resource",
+    "categories": [
+      "policy",
+      "data-resource"
+    ],
+    "focus": [
+      "education",
+      "budgets",
+      "public finance",
+      "governance"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Centre for Policy Research project context; current status refresh required",
+    "independence_signal": "policy research resource",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Research/resource, not news outlet."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://accountabilityindia.in/"
+    ]
+  },
+  {
+    "id": "india-water-portal",
+    "name": "India Water Portal",
+    "url": "https://www.indiawaterportal.org/",
+    "kind": "resource",
+    "categories": [
+      "environment",
+      "water",
+      "resource"
+    ],
+    "focus": [
+      "water",
+      "sanitation",
+      "rivers",
+      "groundwater",
+      "community resources"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "regional languages"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Arghyam-backed public knowledge platform; refresh required",
+    "independence_signal": "public resource platform",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.indiawaterportal.org/"
+    ]
+  },
+  {
+    "id": "google-fact-check-tools",
+    "name": "Google Fact Check Tools",
+    "url": "https://toolbox.google.com/factcheck/explorer",
+    "kind": "tool",
+    "categories": [
+      "media-literacy",
+      "tool"
+    ],
+    "focus": [
+      "claim search",
+      "fact-check discovery"
+    ],
+    "languages": [
+      "English",
+      "many languages"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "Google",
+    "independence_signal": "platform tool",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Use as a discovery tool; always open and read the original fact-check."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://toolbox.google.com/factcheck/explorer"
+    ]
+  },
+  {
+    "id": "tineye",
+    "name": "TinEye Reverse Image Search",
+    "url": "https://tineye.com/",
+    "kind": "tool",
+    "categories": [
+      "media-literacy",
+      "tool"
+    ],
+    "focus": [
+      "reverse image search",
+      "image provenance"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "TinEye / Idée Inc.",
+    "independence_signal": "search tool",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Reverse image search can miss recent or platform-only images."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://tineye.com/"
+    ]
+  },
+  {
+    "id": "invid-weverify",
+    "name": "InVID-WeVerify Plugin",
+    "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/",
+    "kind": "tool",
+    "categories": [
+      "media-literacy",
+      "tool"
+    ],
+    "focus": [
+      "video verification",
+      "keyframes",
+      "reverse image workflows"
+    ],
+    "languages": [
+      "English"
+    ],
+    "region": "India",
+    "free_to_read": "yes",
+    "paywall": "none",
+    "ownership_funding": "EU research/project ecosystem; current status refresh required",
+    "independence_signal": "verification tool",
+    "transparency_rating": "medium",
+    "ifcn_verified": "not_applicable",
+    "rss": "unknown",
+    "newsletter": "unknown",
+    "correction_policy": "unknown",
+    "methodology_page": "not_applicable",
+    "notable_review_note": "No notable controversy/correction added yet. Requires evidence before adding claims.",
+    "caveats": [
+      "Tool assists verification; it does not prove truth by itself."
+    ],
+    "verification_status": "baseline_verified",
+    "last_reviewed": "2026-05-26",
+    "evidence": [
+      "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/"
+    ]
+  }
+]

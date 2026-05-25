@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/iamdeepanshugarg/freest-press-india/data/schema.json",
+  "title": "Free Press India source schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name",
+      "url",
+      "kind",
+      "categories",
+      "focus",
+      "languages",
+      "region",
+      "free_to_read",
+      "paywall",
+      "ownership_funding",
+      "independence_signal",
+      "transparency_rating",
+      "ifcn_verified",
+      "last_reviewed",
+      "evidence",
+      "verification_status"
+    ],
+    "additionalProperties": true,
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "name": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "kind": {
+        "type": "string",
+        "enum": [
+          "outlet",
+          "resource",
+          "tool",
+          "podcast",
+          "youtube"
+        ]
+      },
+      "categories": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "focus": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "languages": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "region": {
+        "type": "string"
+      },
+      "free_to_read": {
+        "type": "string",
+        "enum": [
+          "yes",
+          "mostly",
+          "partial",
+          "limited",
+          "no"
+        ]
+      },
+      "paywall": {
+        "type": "string"
+      },
+      "ownership_funding": {
+        "type": "string"
+      },
+      "independence_signal": {
+        "type": "string"
+      },
+      "transparency_rating": {
+        "type": "string",
+        "enum": [
+          "high",
+          "medium",
+          "low",
+          "needs_review"
+        ]
+      },
+      "ifcn_verified": {
+        "type": "string"
+      },
+      "rss": {
+        "type": "string"
+      },
+      "newsletter": {
+        "type": "string"
+      },
+      "correction_policy": {
+        "type": "string"
+      },
+      "methodology_page": {
+        "type": "string"
+      },
+      "notable_review_note": {
+        "type": "string"
+      },
+      "caveats": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "verification_status": {
+        "type": "string"
+      },
+      "last_reviewed": {
+        "type": "string"
+      },
+      "evidence": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "format": "uri"
+        },
+        "minItems": 1
+      }
+    }
+  }
+}
