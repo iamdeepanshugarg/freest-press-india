@@ -1,0 +1,40 @@
+name: Suggest watchlist / red flag entry
+description: Suggest an evidence-backed caveat or red-flag entry
+title: "Watchlist review: "
+labels: ["watchlist-review", "needs-verification"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Outlet/source name
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue type
+      options:
+        - unclear_ownership
+        - no_correction_policy
+        - paid_news_or_advertorial_disclosure_issue
+        - repeated_misinformation_findings
+        - state_or_party_linkage
+        - corporate_conflict
+        - ai_or_syndication_not_labelled
+        - safety_or_harassment_concern
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence links
+      description: Add official/legal records, corrections, regulator records, or credible third-party documentation.
+    validations:
+      required: true
+  - type: textarea
+    id: neutral_summary
+    attributes:
+      label: Neutral summary
+      description: Describe the concern without insults or political labels.
+    validations:
+      required: true
