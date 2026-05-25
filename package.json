@@ -1,0 +1,16 @@
+{
+  "name": "freest-press-india",
+  "version": "2026.05.0",
+  "description": "Transparent directory of public-interest journalism sources in India",
+  "license": "CC0-1.0",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-data.js",
+    "build:readme": "node scripts/generate-readme.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "yaml": "^2.7.0"
+  }
+}

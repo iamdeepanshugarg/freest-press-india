@@ -3,123 +3,157 @@
 ![Curated](https://img.shields.io/badge/curated-yes-brightgreen?style=for-the-badge)
 ![India](https://img.shields.io/badge/focus-India-orange?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/license-CC0%201.0-lightgrey?style=for-the-badge)
+![Data](https://img.shields.io/badge/data-JSON%20%2B%20YAML-purple?style=for-the-badge)
+![Last reviewed](https://img.shields.io/badge/last%20reviewed-May%202026-black?style=for-the-badge)
 
-A curated list of **free-to-read, independent, public-interest, investigative, regional, and fact-checking news sources in India**.
+A transparent, community-maintained directory of **free-to-read, independent, public-interest, investigative, regional, civic, data, environmental, and fact-checking journalism sources in India**.
 
-> [!IMPORTANT]  
-> This list does **not** claim that any outlet is perfectly unbiased.  
-> It is a discovery list for readers who want journalism beyond TV shouting matches, party propaganda, WhatsApp forwards, and engagement-bait news.
+> [!IMPORTANT]
+> Inclusion is **not endorsement**. This project does not claim any outlet is perfectly unbiased. It is a discovery and media-literacy guide for readers who want journalism beyond TV shouting matches, party propaganda, WhatsApp forwards, and engagement-bait news.
 
----
+## How to contribute first
 
-## Disclaimer
+Found a missing source, broken link, outdated ownership note, or weak caveat? Open an issue using the templates in `.github/ISSUE_TEMPLATE/` or submit a pull request updating `data/sources.json` and `data/sources.yml`.
 
-This repo is a reading guide, not a final authority.
+Every claim about an outlet must include evidence links: about page, ownership/funding page, correction policy, methodology, example investigations, or credible third-party documentation.
 
-Inclusion does not mean:
-- the outlet is always correct,
-- the outlet has no bias,
-- the outlet should be trusted blindly,
-- every article from the outlet is equally reliable.
+## About the curator
 
-Good readers verify. Good journalism shows evidence.
+This repository is maintained by **@iamdeepanshugarg** as an open public-interest media literacy project. The goal is not to become the final judge of Indian media, but to create a transparent directory where every entry can be challenged, improved, corrected, and reviewed by the community.
 
 ---
 
 ## Why this list exists
 
-India has hundreds of news sources, but finding reliable independent journalism is hard because:
+India has hundreds of news sources, but finding reliable public-interest journalism is hard because ownership, funding, political pressure, paywalls, misinformation, regional undercoverage, and unclear correction practices make trust difficult. This repo helps readers discover and compare sources using evidence, caveats, and review status.
 
-- many outlets are owned by large business groups,
-- political and corporate pressure can affect coverage,
-- misinformation spreads faster than corrections,
-- regional stories are often ignored by national media,
-- good journalism is often hidden behind noise.
+## Quick reader rules
 
-This repo helps readers discover outlets that are useful for:
-
-- investigative reporting,
-- legal and constitutional issues,
-- fact-checking,
-- policy and governance,
-- regional reporting,
-- media criticism,
-- public-interest journalism.
+1. Check **ownership/funding** before trusting a source.
+2. Check whether the story links documents, data, court records, official records, or named sources.
+3. Separate news, opinion, sponsored content, and commentary.
+4. Verify viral claims with at least one independent fact-checker.
+5. Treat official clarification sources as useful, but not automatically neutral.
+6. Do not use this list as a political loyalty test.
 
 ---
 
-## Quick rules
+## Data-first directory
 
-Before trusting any article, check:
+The source of truth is now structured data:
 
-1. **Who owns/funds the outlet?**
-2. **Does the article show documents, data, or named sources?**
-3. **Does the outlet correct mistakes publicly?**
-4. **Is the headline calmer than the content?**
-5. **Can the claim be verified from another independent source?**
-
----
-
-## Main List
-
-| Name | Type | Best For | Languages | Free to Read | Independence Signal | Notes |
-|---|---|---|---|---|---|---|
-| [The Reporters' Collective](https://www.reporters-collective.in/) | Investigative journalism | Deep investigations, public policy, governance | English + collaborations | ✅ Yes | Reader/citizen-supported | Strong for document-based investigations |
-| [Article 14](https://article-14.com/) | Legal + constitutional journalism | Law, courts, civil liberties, governance | English | ✅ Yes | Public-interest legal reporting | Best for rights, law, and justice issues |
-| [Scroll.in](https://scroll.in/) | Digital news magazine | Politics, culture, society, ground reports | English | ✅ Mostly | Independent digital newsroom | Good mix of analysis and reporting |
-| [The Wire](https://thewire.in/) | Independent digital news | Politics, policy, media, rights | English, Hindi, Urdu | ✅ Mostly | Reader-supported model | Strong opinion + reporting; cross-check claims |
-| [Newslaundry](https://www.newslaundry.com/) | Media criticism + reporting | Media analysis, politics, accountability | English, Hindi | ⚠️ Some paywalled | Subscription-driven | Best for understanding media bias and TV coverage |
-| [The News Minute](https://www.thenewsminute.com/) | Regional digital news | South India, politics, gender, society | English | ✅ Mostly | Independent digital outlet | Strong South India coverage |
-| [The Quint](https://www.thequint.com/) | Digital news | Explainers, politics, gender, youth issues | English, Hindi | ✅ Mostly | Digital-first newsroom | Good explainers; verify breaking-news claims |
-| [Alt News](https://www.altnews.in/) | Fact-checking | Viral misinformation, political claims, social media rumours | English, Hindi | ✅ Yes | Dedicated fact-checking outlet | Very useful before forwarding viral claims |
-| [BOOM Live](https://www.boomlive.in/) | Fact-checking | Fake news, scams, AI/deepfake claims | English, Hindi, Bengali | ✅ Yes | Independent fact-checking initiative | Good for social-media verification |
-| [Factly](https://factly.in/) | Data + fact-checking | Government data, policy claims, explainers | English, Telugu | ✅ Yes | Data-first fact-checking | Useful for government schemes and statistics |
-| [The Hindu](https://www.thehindu.com/) | Legacy newspaper | National news, editorials, policy, international affairs | English + regional editions | ⚠️ Limited free | Legacy editorial institution | Good for sober reporting; some paywall |
-| [Frontline](https://frontline.thehindu.com/) | Magazine | Long-form politics, history, society | English | ⚠️ Limited free | Long-form editorial tradition | Best for deeper context |
-| [The Caravan](https://caravanmagazine.in/) | Long-form magazine | Investigations, politics, culture | English | ⚠️ Often paywalled | Magazine-style long-form reporting | Strong long reads; not always free |
-| [Down To Earth](https://www.downtoearth.org.in/) | Environment + development | Climate, agriculture, public health, policy | English, Hindi | ✅ Mostly | Specialist reporting | Excellent for environment and rural issues |
-| [People's Archive of Rural India](https://ruralindiaonline.org/) | Rural journalism archive | Rural India, labour, culture, livelihoods | English + many Indian languages | ✅ Yes | Public archive model | One of the best for rural voices |
-| [Mongabay India](https://india.mongabay.com/) | Environment journalism | Forests, wildlife, climate, conservation | English, Hindi | ✅ Yes | Specialist nonprofit-style reporting | Strong science/environment coverage |
-| [Citizen Matters](https://citizenmatters.in/) | Civic journalism | Cities, local governance, urban issues | English | ✅ Mostly | Civic-public interest model | Useful for urban policy |
-| [IndiaSpend](https://www.indiaspend.com/) | Data journalism | Data-based policy reporting | English, Hindi | ✅ Yes | Data-first journalism | Good for statistics and governance |
-| [BehanBox](https://behanbox.com/) | Gender + public policy | Gender, welfare, law, rural issues | English, Hindi | ✅ Yes | Public-interest reporting | Strong gender-focused journalism |
-| [Khabar Lahariya](https://khabarlahariya.org/) | Rural/regional journalism | Bundelkhand, rural politics, local issues | Hindi + regional dialects | ✅ Yes | Women-led rural newsroom | Great for ground-level reporting |
+- [`data/sources.json`](data/sources.json) — machine-readable source list
+- [`data/sources.yml`](data/sources.yml) — human-editable source list
+- [`data/schema.json`](data/schema.json) — validation schema
+- [`data/red-flags.yml`](data/red-flags.yml) — evidence-first watchlist framework
+- [`docs/index.html`](docs/index.html) — searchable GitHub Pages site
 
 ---
 
-## Fact-Checking First Aid
+## Featured sources table
 
-Use these before believing or forwarding viral content:
+This is a compact table. The complete directory has **61 entries** in `data/sources.json`.
 
-| Outlet | Best For | Link |
+| Name | Categories | Languages | Free / Paywall | Ownership/Funding | IFCN | Newsletter | Transparency | Last reviewed | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| [The Reporters' Collective](https://www.reporters-collective.in/) | investigative, accountability | English, collaborations | yes / none | IPSMF grant support disclosed; reader donations encouraged | not_applicable | yes | high | 2026-05-26 | About page discloses IPSMF support and public-interest collaborative model. |
+| [Article 14](https://article-14.com/) | legal, constitutional, rights | English | yes / none | needs_review | not_applicable | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Scroll.in](https://scroll.in/) | digital-news, analysis, culture | English | yes / none | SCSN Pvt Ltd / Scroll Media; details need current review | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [The Wire](https://thewire.in/) | digital-news, investigative, opinion | English, Hindi, Urdu | yes / none | Foundation / reader-supported model; refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Newslaundry](https://www.newslaundry.com/) | media-criticism, digital-news, podcast | English, Hindi | partial / mixed | subscription-driven; current ownership refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [The News Minute](https://www.thenewsminute.com/) | regional, digital-news | English | mostly / mixed | digital media company; current ownership refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Alt News](https://www.altnews.in/) | fact-checking, misinformation | English, Hindi | yes / none | Pravda Media Foundation; non-profit model | not_currently_verified_based_on_available_public_summary | unknown | medium | 2026-05-26 | Public summaries state Alt News was an IFCN signatory until April 2020; current IFCN status should be rechecked bef… |
+| [BOOM Live](https://www.boomlive.in/) | fact-checking, misinformation, deepfakes | English, Hindi, Bengali | yes / none | Outcue Media Pvt Ltd; revenue sources and major contributors disclosed | yes | yes | high | 2026-05-26 | About page states IFCN certification, languages, methodology, correction policy, ownership and FY2025-26 major reve… |
+| [Factly](https://factly.in/) | data-journalism, fact-checking, public-data | English, Telugu | yes / none | Factly Media & Research; for-profit partnership; revenue sources disclosed | yes | yes | high | 2026-05-26 | About page discloses mission, products, legal entity, revenues, partners, corrections, methodology and IFCN status. |
+| [Digiteye India](https://digiteye.in/) | fact-checking, misinformation | English, Telugu, Kannada | yes / none | SoftmediaHub LLP | yes | unknown | high | 2026-05-26 | About page states SoftmediaHub LLP structure, IFCN signatory status, methodology, and corrections page. |
+| [FactChecker.in](https://www.factchecker.in/) | fact-checking, data-journalism | English | yes / none | The Spending & Policy Research Foundation / IndiaSpend ecosystem | needs_review | unknown | high | 2026-05-26 | IndiaSpend says FactChecker.in launched in March 2014 as a dedicated fact-checking initiative. |
+| [Newschecker](https://newschecker.in/) | fact-checking, misinformation | English, Hindi, regional languages | yes / none | NC Media Networks Pvt Ltd; current details require review | needs_current_check | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Vishvas News](https://www.vishvasnews.com/) | fact-checking, misinformation | Hindi, English, regional languages | yes / none | MMI Online / Jagran Prakashan group | needs_current_check | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [IndiaSpend](https://www.indiaspend.com/) | data-journalism, policy, public-data | English, Hindi, Tamil | yes / none | Non-profit project of The Spending & Policy Research Foundation | not_applicable | yes | high | 2026-05-26 | About page states open-data mission and non-profit structure. |
+| [People's Archive of Rural India](https://ruralindiaonline.org/) | rural, archive, multilingual | English, Hindi, Assamese, Bengali… | yes / none | CounterMedia Trust / public archive model; current funding refresh required | not_applicable | yes | high | 2026-05-26 | Needs evidence-based review notes. |
+| [Down To Earth](https://www.downtoearth.org.in/) | environment, climate, development, health | English, Hindi, Malayalam | mostly / mixed | Centre for Science and Environment / Society for Environmental Communications context; subscriptions/support requested | not_applicable | yes | high | 2026-05-26 | About page states environment/health/livelihood mission, 1992 origin, and subscription-support model. |
+| [Mongabay India](https://india.mongabay.com/) | environment, science, climate | English, Hindi | yes / none | Mongabay global non-profit network; India details need refresh | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Citizen Matters](https://citizenmatters.in/) | civic, urban-governance, local | English | yes / none | Oorvani Foundation / civic media; refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [BehanBox](https://behanbox.com/) | gender, policy, data, investigative | English | partial / mixed | women-led organisation; funding details need refresh | not_applicable | yes | high | 2026-05-26 | About page states mission to center women and gender diverse persons through evidence-based reportage. |
+| [Khabar Lahariya](https://khabarlahariya.org/) | rural, regional, gender | Hindi, Bundeli, Bhojpuri, Awadhi… | yes / none | women-led rural newsroom; current entity/funding refresh required | not_applicable | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [EastMojo](https://www.eastmojo.com/) | regional, northeast | English | mostly / mixed | IPSMF support disclosed | not_applicable | yes | high | 2026-05-26 | About page states Northeast focus, 8-state coverage and IPSMF support. |
+| [Maktoob Media](https://maktoobmedia.com/) | minority-rights, regional, rights | English | yes / none | needs_review | not_applicable | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Gaon Connection](https://www.gaonconnection.com/) | rural, agriculture, regional | Hindi, English | yes / none | Slow Movement / Gaon Connection; current corporate/funding refresh required | not_applicable | unknown | high | 2026-05-26 | About page describes rural media platform with text, audio, video, print, surveys and community journalists. |
+| [The Kashmiriyat](https://thekashmiriyat.co.uk/) | regional, kashmir, conflict-sensitive | English | yes / none | needs_review | not_applicable | unknown | low | 2026-05-26 | Needs evidence-based review notes. |
+| [GroundXero](https://www.groundxero.in/) | labour, rights, ground-reporting | English | yes / none | needs_review | not_applicable | unknown | low | 2026-05-26 | Needs evidence-based review notes. |
+| [Himal Southasian](https://www.himalmag.com/) | south-asia, longform, regional | English | yes / none | needs_review | not_applicable | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [The Hindu](https://www.thehindu.com/) | legacy, newspaper | English, Tamil, regional editions | partial / limited_free | Kasturi & Sons / legacy family-owned media; refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Frontline](https://frontline.thehindu.com/) | legacy, magazine, longform | English | partial / mixed | The Hindu Group / Kasturi & Sons | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [The Caravan](https://caravanmagazine.in/) | magazine, longform, investigative | English | partial / often | Delhi Press / current structure refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [The Indian Express](https://indianexpress.com/) | legacy, investigative, explainers | English, Hindi, regional brands | partial / mixed | Indian Express Group / corporate legacy | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Deccan Herald](https://www.deccanherald.com/) | legacy, regional, newspaper | English | mostly / mixed | The Printers Mysore / legacy media | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [Economic and Political Weekly](https://www.epw.in/) | policy, research, magazine | English | partial / mixed | Sameeksha Trust | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [The Ken](https://the-ken.com/) | business, longform | English | limited / strong | subscription business publication; investors/funding need current refresh | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [ThePrint](https://theprint.in/) | digital-news, explainers, youtube | English, Hindi | mostly / mixed | Printline Media Pvt Ltd; current ownership refresh required | not_applicable | yes | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [PRS Legislative Research](https://prsindia.org/) | law, policy, data-resource | English, Hindi | yes / none | non-profit policy research; not a newsroom | not_applicable | unknown | high | 2026-05-26 | Needs evidence-based review notes. |
+| [Google Fact Check Tools](https://toolbox.google.com/factcheck/explorer) | media-literacy, tool | English, many languages | yes / none | Google | not_applicable | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+| [TinEye Reverse Image Search](https://tineye.com/) | media-literacy, tool | English | yes / none | TinEye / Idée Inc. | not_applicable | unknown | medium | 2026-05-26 | Needs evidence-based review notes. |
+
+---
+
+## Categories
+
+| Category | Meaning |
+|---|---|
+| `investigative` | Original investigations, document-led accountability reporting. |
+| `fact-checking` | Claim verification and misinformation checks. |
+| `data-journalism` | Data-led public information journalism. |
+| `environment` | Climate, ecology, conservation, water, air and development reporting. |
+| `rural` | Rural livelihoods, agriculture, labour and village-level reporting. |
+| `regional` | State or region-focused journalism. |
+| `northeast` | Northeast India coverage. |
+| `kashmir` | Kashmir/conflict-sensitive regional coverage. |
+| `gender` | Gender, caste, marginalisation and social equity reporting. |
+| `civic` | Urban governance, civic issues and local public services. |
+| `legacy` | Established legacy outlets useful with ownership/paywall caveats. |
+| `podcast` | Audio journalism, interviews and explainers. |
+| `youtube` | Video-first channels/explainers. Not all are newsrooms. |
+| `media-literacy` | Verification tools and literacy resources. |
+| `resource` | Research or reference resource that supports journalism but is not a newsroom. |
+
+---
+
+## Fact-checking first aid
+
+Use these before forwarding viral content:
+
+| Tool/source | Best for | Caveat |
 |---|---|---|
-| Alt News | Political misinformation, communal claims, viral videos | https://www.altnews.in/ |
-| BOOM Live | Fake news, scams, deepfakes, viral images | https://www.boomlive.in/ |
-| Factly | Government data, statistics, schemes, policy claims | https://factly.in/ |
-| PIB Fact Check | Official government clarification | https://factcheck.pib.gov.in/ |
-
-> [!WARNING]  
-> PIB Fact Check is useful for checking the government’s official position, but it should not be treated as a neutral replacement for independent fact-checking.
-
----
-
-## Regional / Ground Reporting
-
-| Name | Region / Focus | Why Follow |
-|---|---|---|
-| Khabar Lahariya | Rural North India | Local stories ignored by national media |
-| The News Minute | South India | Strong regional political and social coverage |
-| People’s Archive of Rural India | Rural India | Deep archive of rural lives and livelihoods |
-| Citizen Matters | Indian cities | Civic issues, local governance, urban problems |
-| EastMojo | Northeast India | Regional stories from Northeast India |
-| Maktoob Media | Minority issues, rights, politics | Useful for stories undercovered elsewhere |
+| Alt News | Political and social-media misinformation | Current IFCN status needs separate review. |
+| BOOM Live | Viral claims, scams, AI/deepfake claims | Discloses platform revenue; read methodology. |
+| Factly | Data, government schemes, statistics | Strong for data-led claims. |
+| Digiteye India | Social-media claims in English/Telugu/Kannada | Smaller fact-checking team. |
+| Newschecker | Viral and regional claims | Verify methodology and ownership pages. |
+| Vishvas News | Regional-language fact checks | Corporate-linked; mark clearly. |
+| PIB Fact Check | Official government clarification | Useful for official position, not a neutral substitute for independent checks. |
 
 ---
 
-## Media Literacy Checklist
+## Watchlist / red flags
 
-Use this checklist while reading any news story:
+The watchlist is intentionally evidence-first. Do **not** add an outlet because you dislike it politically. Add a documented concern only when there is evidence.
+
+Possible red flags:
+
+- unclear ownership or funding
+- no correction policy
+- sponsored content not clearly labelled
+- repeated misinformation findings by credible fact-checkers
+- partisan or government ownership that is not disclosed to readers
+- AI-generated or syndicated content not labelled
+- anonymous reports with no documents, names, or verifiable evidence
+
+See [`data/red-flags.yml`](data/red-flags.yml) and [`WATCHLIST.md`](WATCHLIST.md).
+
+---
+
+## Media literacy checklist
 
 ```txt
 [ ] Is the headline emotional or factual?
@@ -130,24 +164,24 @@ Use this checklist while reading any news story:
 [ ] Is the article news, opinion, satire, or sponsored content?
 [ ] Does the story separate facts from allegations?
 [ ] Is the image/video verified or just embedded from social media?
+[ ] Is the ownership/funding clear?
+[ ] Was this source reviewed recently?
 ```
 
-----
+---
 
-## Contribution Guide
+## Roadmap
 
-Want to add a source? Open a pull request using this format:
+See [`ROADMAP.md`](ROADMAP.md) for:
 
-| Name | Type | Best For | Languages | Free to Read | Independence Signal | Notes |
-|---|---|---|---|---|---|---|
-| Example News | Investigative | Courts, policy | English, Hindi | Yes | Reader-funded | Add why it deserves inclusion |
-Required proof
+- This week
+- Next 30 days
+- Long term
+- Maintenance cadence
+- Community roles
 
-Please include at least one of these:
+---
 
-- official about page,
-- funding/ownership page,
-- corrections/editorial policy,
-- examples of original reporting,
-- public-interest investigations,
-- fact-checking methodology.
+## License
+
+This directory is released under **CC0 1.0 Universal** for maximum reuse. Please still credit contributors where possible; see [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
