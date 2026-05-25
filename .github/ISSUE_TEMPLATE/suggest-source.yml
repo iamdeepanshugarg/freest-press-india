@@ -1,0 +1,50 @@
+name: Suggest a source
+description: Suggest a news outlet, fact-checker, regional newsroom, podcast, YouTube channel, or resource
+title: "Add source: "
+labels: ["source-suggestion", "needs-verification"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Source name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official website or channel URL
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Investigative
+        - Fact-checking
+        - Data journalism
+        - Environment / climate
+        - Rural / agriculture
+        - Legal / constitutional
+        - Regional
+        - Northeast
+        - Kashmir
+        - Gender / caste / minority
+        - Civic / urban governance
+        - Podcast / YouTube
+        - Legacy with caveats
+        - Media literacy tool
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence links
+      description: Add about page, correction policy, methodology, ownership/funding, and sample reporting links.
+    validations:
+      required: true
+  - type: textarea
+    id: caveats
+    attributes:
+      label: Caveats or concerns
+      description: Mention paywall, ownership, past controversies, unclear funding, or limitations.

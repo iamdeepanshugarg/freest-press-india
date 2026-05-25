@@ -1,0 +1,15 @@
+name: Report broken link
+description: Report a dead or redirected link
+title: "Broken link: "
+labels: ["broken-link"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Broken URL
+    validations:
+      required: true
+  - type: textarea
+    id: replacement
+    attributes:
+      label: Replacement URL if known
